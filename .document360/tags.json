@@ -1,4 +1,9 @@
 {
   "groups": [],
-  "tags": []
+  "tags": [
+    {
+      "uniqueId": "wwe",
+      "name": "wwe"
+    }
+  ]
 }
