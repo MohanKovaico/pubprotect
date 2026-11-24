@@ -1,7 +1,5 @@
 ---
 title: Getting Started Guides
-tags:
-  - wwe
 seo:
   title: Getting Started Guides
 display:
