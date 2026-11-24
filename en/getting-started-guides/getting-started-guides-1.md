@@ -9,7 +9,7 @@ feedback:
   comments: true
 ---
 
-/
+![qa-pr-img-1124](../../assets/Images/qa-pr-img-1124.png){dataalign="center" datadisplay="inline"}/
 
 [d360]: # 'heading id="getting-started-with-productservice-name"'
 
@@ -52,3 +52,5 @@ feedback:
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt"><span type="spanMark" style="background:transparent;font-family:Arial;font-size:11pt;font-weight:400;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">PROT-ONE-1120</span></p>
 
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt"><span type="spanMark" style="background:transparent;font-family:Arial;font-size:11pt;font-weight:400;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">PROT-ONE-1120 PROT-TYPED-1120 PROT-RELOAD-1120 PROT-NET-1120 PR-ADD-1124b</span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt"><img src="../../assets/Images/qa-pr-img-1124.png" alt="qa-pr-img-1124" shadow="no" border="no" round="no" dataalign="center" datadisplay="flex"></p>
