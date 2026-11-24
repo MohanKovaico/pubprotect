@@ -27,6 +27,11 @@
           ]
         }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "prot-cat-1120/README.md" }
+      ]
     }
   ]
 }
